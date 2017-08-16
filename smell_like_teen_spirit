@@ -1,0 +1,30 @@
+#titulo del proyecto
+
+##Problema
+Describir el problema puntuelmente. 3 parrafos
+
+##Propouesta gral de solucion
+1 parrafo: "Implementar un sistema de cobranza y pagos"
+
+##Valor para el negocio
+###tangible
+Ejemplos:
+- Evitara dobles pagos a proveedores disminuyendo perdidas
+-  Permitira pago oportuno a proveedores, evitando el pago de interes
+###Intangible
+3
+##Factibilidad (analisis de riesgos)
+###Economico
+-el sistema costara..
+-sed requiere comprar un servidor
+-se requiere instalar internet en sucursales
+-El ROI sera de ... en tantos años
+###TEcnica
+-
+-
+###Organizacional
+-
+-
+# Listado de requerimientos(cada uno debe ser una historia de usuario)
+1. Seguridad
+2. REgistro de proveedores
